@@ -1,0 +1,10 @@
+* vector
+
+Simple 2D vector library.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/elbeno/vector.git   |
+| commit  | 924ab18  |
+| systems | vector |
+|---------+-------------------------------------------|
+
