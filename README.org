@@ -7,3 +7,4 @@ Simple 2D vector library.
 | commit  | 924ab18                                  |
 | systems | com.elbeno.vector                        |
 |---------+------------------------------------------|
+ 
